@@ -1,4 +1,4 @@
-Case study: Is there any tendency in the traffic stop in Nashville between 2016-2018?
+Case study: Is there any tendency in the traffic stops in Nashville between 2016-2018?
 -
 
 This repository contains the details of the analysis of the stops in Nashville Tennese in 2016, 2017, and 2018. The  purpose of the research is to identify 
