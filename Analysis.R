@@ -15,32 +15,6 @@ table(info_final$race)
 table(info_final$violation)
 
 
-ggplot(data = info_final) +
-  geom_bar(mapping = aes(x = race,colour=sex,fill=sex)) +
-  facet_wrap(~year)+
-  theme(axis.text.x = element_text(angle = 90))
-
-ggplot(data = info_final) +
-  geom_bar(mapping = aes(x = sex,colour=race,fill=race)) +
-  facet_wrap(~year)+
-  theme(axis.text.x = element_text(angle = 90))
-
-
-ggplot(data = info_final) +
-  geom_bar(mapping = aes(x = violation,colour=race,fill=race)) +
-  facet_wrap(~year)+
-  theme(axis.text.x = element_text(angle = 90))
-
-ggplot(data = info_final) +
-  geom_bar(mapping = aes(x = violation,colour=sex,fill=sex)) +
-  facet_wrap(~year)+
-  theme(axis.text.x = element_text(angle = 90))
-
-ggplot(data = info_final) +
-  geom_bar(mapping = aes(x = violation,colour=age_consolidation,fill=age_consolidation)) +
-  facet_wrap(~year)+
-  theme(axis.text.x = element_text(angle = 90))
-
 ###Compare with the population
 ###Info available in https://data.census.gov
 ### S0601 2016/2017/2018: ACS 1-Year Estimates Subject Tables
@@ -180,4 +154,36 @@ info_final2018 %>%
      by = "age_consolidation"
    ) %>%
    mutate(age_rate = n / ageclass2018)
- 
+
+ ################################################################
+
+
+Visualizations
+
+
+ggplot(data = info_final) +
+  geom_bar(mapping = aes(x = race,colour=sex,fill=sex)) +
+  facet_wrap(~year)+
+  theme(axis.text.x = element_text(angle = 90))
+
+ggplot(data = info_final) +
+  geom_bar(mapping = aes(x = sex,colour=race,fill=race)) +
+  facet_wrap(~year)+
+  theme(axis.text.x = element_text(angle = 90))
+
+
+ggplot(data = info_final) +
+  geom_bar(mapping = aes(x = violation,colour=race,fill=race)) +
+  facet_wrap(~year)+
+  theme(axis.text.x = element_text(angle = 90))
+
+ggplot(data = info_final) +
+  geom_bar(mapping = aes(x = violation,colour=sex,fill=sex)) +
+  facet_wrap(~year)+
+  theme(axis.text.x = element_text(angle = 90))
+
+ggplot(data = info_final) +
+  geom_bar(mapping = aes(x = violation,colour=age_consolidation,fill=age_consolidation)) +
+  facet_wrap(~year)+
+  theme(axis.text.x = element_text(angle = 90))
+
