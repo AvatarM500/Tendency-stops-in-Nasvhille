@@ -8,9 +8,13 @@ data cleaning, analysis, visualizations, and conclusion.
 Phase 1: Data validation, and  cleaning.
 - 
 -Ensure data accuracy and reliability of principal data and secondary sources of information.
+
 -Filter out incomplete data on sex, age, and race. 
+
 -Filter our stops of individuals under 18 years old.
+
 -Converte data in a variable 
+
 
 Phase 2: Preparation
 -
@@ -18,8 +22,13 @@ Phase 2: Preparation
 
   "18 to 24"        "25 to 44"        "45 to 54"        "55 to 64"        "65 to 74"        "75+"
 
+
 Phase 3: Analysis
 - 
+
+To understand the data, create a frequency table of the variables of interest: race, sex, age "range" and type of violation
+
+
 
 Phase 4: Visualizations
 - 
