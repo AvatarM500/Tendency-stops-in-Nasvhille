@@ -83,8 +83,6 @@ nrow(adults_nv)
 adults_nv$month <- as.numeric(format(adults_nv$date, "%m"))
 view(head(adults_nv))
 
-table(adults_nv$year,adults_nv$month)
-
 table(adults_nv$year)
 colnames(adults_nv)
 nrow(adults_nv)
