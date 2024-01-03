@@ -1,4 +1,4 @@
-Case study: Are there any tendency in the traffic stop in NV between 2016-2018
+Case study: Is there any tendency in the traffic stop in NV between 2016-2018?
 -
 
 This repository contains the details of the analysis of the stops in Nasvhile Tennese in 2016, 2017, and 2018. The  purpose of the research is to identify 
