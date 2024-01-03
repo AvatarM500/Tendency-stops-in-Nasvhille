@@ -26,7 +26,7 @@ Phase 2: Preparation
 Phase 3: Analysis
 - 
 
-To understand the data, create a frequency table of the variables of interest: race, sex, age "range" and type of violation
+To understand the data, create a frequency table of the variables of interest: race, sex, age range, and type of violation
 
 
 
