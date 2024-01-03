@@ -13,7 +13,7 @@ Phase 1: Data validation, and  cleaning.
 
 -Filter our stops of individuals under 18 years old.
 
--Convert date into a numeric variable 
+-Convert dates into numeric variables.
 
 
 Phase 2: Preparation
