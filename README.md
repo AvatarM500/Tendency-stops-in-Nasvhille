@@ -13,12 +13,15 @@ Filter out years different from 2016, 2017, and 2019.
 Filter our stops of individuals under 18 years old.
 Convert the variable date 
 
-Phase 2: Analysis
+Phase 2: Preparation
+-
+
+Phase 3: Analysis
 - 
 
-Phase 3: Visualizations
+Phase 4: Visualizations
 - 
 
 
-Phase 4: Conclusions
+Phase 5: Conclusions
 - 
