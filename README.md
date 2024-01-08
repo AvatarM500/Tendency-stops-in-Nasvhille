@@ -2,26 +2,8 @@ Case study: Is there any tendency in the traffic stops in Nashville between 2016
 -
 
 This repository contains the details of the analysis of the stops in Nashville Tennessee in 2016, 2017, and 2018. The  purpose of the research is to identify 
-any tendency for "vehicular" stops in the mentioned city. Variables of interest: Race, age, and sex. Here you can find the R code used for data validation, 
+any tendency for vehicular stops in the mentioned city. Variables of interest: Race, age, and sex. Here you can find the R code used for data validation, 
 data cleaning, analysis, visualizations, and conclusion. 
-
-Context of data (Definition of violations)
-- 
-Child restraint: No adequate child seat
-
-Investigative stop
-
-Moving traffic violation
-
-Parking violation
-
-Registration
-
-Safety violation
-
-Seatbelt violation 
-
-vehicle equipment violation
 
 
 Phase 1: Data validation, and  cleaning.
@@ -62,7 +44,23 @@ Phase 4: Visualizations
 - Graphic 3: Kind of violations according to sex
 - Graphic 4: Kind of violations according to age
  
+Context of data (Vehicular violation)
 
+Child restraint
+
+Investigative stop
+
+Moving traffic violation
+
+Parking violation
+
+Registration
+
+Safety violation
+
+Seatbelt violation 
+
+vehicle equipment violation
 
 Phase 5: Conclusions
 -
