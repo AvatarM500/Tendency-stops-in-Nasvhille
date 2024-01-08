@@ -8,13 +8,20 @@ data cleaning, analysis, visualizations, and conclusion.
 Context of data (Definition of violations)
 - 
 Child restraint: No adequate child seat
+
 Investigative stop
+
 Moving traffic violation
+
 Parking violation
+
 Registration
+
 Safety violation
-Seatbelt violation vehicle
-equipment violation
+
+Seatbelt violation 
+
+vehicle equipment violation
 
 
 Phase 1: Data validation, and  cleaning.
