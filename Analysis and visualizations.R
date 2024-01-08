@@ -164,7 +164,7 @@ ggplot(data = info_final) +
   geom_bar(mapping = aes(x = race,colour=sex,fill=sex)) +
   facet_wrap(~year)+
   theme(axis.text.x = element_text(angle = 90))+
-  labs(title = "Freq. of stops according with race and sex", 
+  labs(title = "Freq. of stops according to race and sex", 
        subtitle = 'Sample of 2016,2017,and 2018', caption = 'Data collected in Nasvhille, TN' )
 
 
@@ -172,7 +172,7 @@ ggplot(data = info_final) +
   geom_bar(mapping = aes(x = sex,colour=race,fill=race)) +
   facet_wrap(~year)+
   theme(axis.text.x = element_text(angle = 90))+
-  labs( subtitle = 'Secunday graphic: frq. according sex and race. 
+  labs( subtitle = 'Secunday graphic: frq. according to sex and race. 
         Sample of 2016,2017,and 2018', caption = 'Data collected in Nasvhille, TN' )
 
 
@@ -180,19 +180,19 @@ ggplot(data = info_final) +
   geom_bar(mapping = aes(x = violation,colour=race,fill=race)) +
   facet_wrap(~year)+
   theme(axis.text.x = element_text(angle = 90))+
-  labs(title = "Kind of violations according with race", 
+  labs(title = "Kind of violations according to race", 
        subtitle = 'Sample of 2016,2017,and 2018', caption = 'Data collected in Nasvhille, TN' )
 
 ggplot(data = info_final) +
   geom_bar(mapping = aes(x = violation,colour=sex,fill=sex)) +
   facet_wrap(~year)+
   theme(axis.text.x = element_text(angle = 90))+
-  labs(title = "Kind of violations according with sex", 
+  labs(title = "Kind of violations according to sex", 
        subtitle = 'Sample of 2016,2017,and 2018', caption = 'Data collected in Nasvhille, TN' )
 
 ggplot(data = info_final) +
   geom_bar(mapping = aes(x = violation,colour=age_consolidation,fill=age_consolidation)) +
   facet_wrap(~year)+
   theme(axis.text.x = element_text(angle = 90))+
-  labs(title = "Kind of violations according with age", 
+  labs(title = "Kind of violations according to age", 
        subtitle = 'Sample of 2016,2017,and 2018', caption = 'Data collected in Nasvhille, TN' )
