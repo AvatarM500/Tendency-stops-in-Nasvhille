@@ -5,6 +5,18 @@ This repository contains the details of the analysis of the stops in Nashville T
 any tendency for "vehicular" stops in the mentioned city. Variables of interest: Race, age, and sex. Here you can find the R code used for data validation, 
 data cleaning, analysis, visualizations, and conclusion. 
 
+Context of data (Definition of violations)
+- 
+Child restraint: No adequate child seat
+Investigative stop
+Moving traffic violation
+Parking violation
+Registration
+Safety violation
+Seatbelt violation vehicle
+equipment violation
+
+
 Phase 1: Data validation, and  cleaning.
 - 
 -Ensure data accuracy and reliability of principal data and secondary sources of information.
@@ -15,9 +27,9 @@ Phase 1: Data validation, and  cleaning.
 
 -Convert dates into numeric variables.
 
-
 Phase 2: Preparation
 -
+
 
 - For simplicity, divide the database according to the years and create a variable to consolidate the age into the census range, as:
 
@@ -31,7 +43,7 @@ Phase 3: Analysis
 
 1. To understand the data's behavior, create a frequency table of the variables of interest: race, sex, age range, and type of violation
 2. Compare variables of interest with the population of Nashville
-
+3. Calculate the stop rate 
 
 Phase 4: Visualizations
 -
@@ -46,4 +58,12 @@ Phase 4: Visualizations
 
 
 Phase 5: Conclusions
-- 
+-
+
+
+Sources: 
+1. E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff, and S. Goel. “A large-scale analysis of racial disparities in police stops across the United States”. Nature Human Behaviour, Vol. 4, 2020.
+2. Stanford Open Policing Project data
+3. https://data.census.gov
+
+-
