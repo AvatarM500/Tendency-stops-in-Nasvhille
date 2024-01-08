@@ -22,15 +22,18 @@ Phase 2: Preparation
 
   "18 to 24"        "25 to 44"        "45 to 54"        "55 to 64"        "65 to 74"        "75+"
 
+-Update the variable's name 
+
 
 Phase 3: Analysis
 - 
 
-To understand the data, create a frequency table of the variables of interest: race, sex, age range, and type of violation
-
+1. To understand the data's behavior, create a frequency table of the variables of interest: race, sex, age range, and type of violation
+2. Compare variables of interest with the population of Nashville
 
 
 Phase 4: Visualizations
+- Graphic 1: Freq. of stops according with the race and sex
 - 
 
 
