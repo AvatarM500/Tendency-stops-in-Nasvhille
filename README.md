@@ -39,8 +39,9 @@ Phase 4: Visualizations
 - Graphic 1: Freq. of stops according to race and sex
   Secondary graphic: Freq. of stops according to sex and race to check the evolution between years
 
-- Graphic 1: Freq. of stops according to race and sex
-- Graphic 1: Freq. of stops according to race and sex
+- Graphic 2: Kind of violations according to race
+- Graphic 3: Kind of violations according to sex
+- Graphic 4: Kind of violations according to age
  
 
 
