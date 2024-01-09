@@ -157,6 +157,25 @@ info_final2018 %>%
 
  ################################################################
 
+ Calculations
+ 
+ Variation_Stops<- (nrow(info_final2018)/nrow(info_final2016))-1
+ (Variation_Stops)*100
+ 
+
+ Population_var<- ((Population_2018)/(Population_2016))-1
+ (Population_var)*100
+ 
+ violations2016 <- table(info_final2016$violation)
+ violations2017 <- table(info_final2017$violation)
+ violations2018 <- table(info_final2018$violation)
+variationpp <- ((violations2018/violations2016)-1)*100
+ variation <- violations2018-violations2016
+ 
+Violations_evo<- rbind(violations2016,violations2017,violations2018,variationpp,variation)
+view(Violations_evo)
+
+################################################################
 
 Visualizations
 
