@@ -157,7 +157,7 @@ info_final2018 %>%
 
  ################################################################
 
- Calculations
+ ####Calculations
  
  Variation_Stops<- (nrow(info_final2018)/nrow(info_final2016))-1
  (Variation_Stops)*100
@@ -177,7 +177,7 @@ view(Violations_evo)
 
 ################################################################
 
-Visualizations
+####Visualizations
 
 ggplot(data = info_final) +
   geom_bar(mapping = aes(x = race,colour=sex,fill=sex)) +
