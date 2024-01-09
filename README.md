@@ -69,11 +69,17 @@ Graphics
 
 Phase 5: Conclusions
 =
+-Stop in Nashville has a positive variation between years of analysis due to the decrease of 31%, the principal factor was the fall of the rate of moving traffic violations by 33% equivalent to a different of 49,287 stops. 
+
+-
 
 
 Sources: 
+-
+
+
 1. E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff, and S. Goel. “A large-scale analysis of racial disparities in police stops across the United States”. Nature Human Behaviour, Vol. 4, 2020.
 2. Stanford Open Policing Project data
 3. https://data.census.gov
 
--
+
