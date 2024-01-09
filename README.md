@@ -19,13 +19,11 @@ Phase 1: Data validation, and  cleaning.
 Phase 2: Preparation
 =
 
-
-
-- For simplicity, divide the database according to the years and create a variable to consolidate the age into the census range, as:
+--For simplicity, divide the database according to the years and create a variable to consolidate the age into the census range, as:
 
   "18 to 24"        "25 to 44"        "45 to 54"        "55 to 64"        "65 to 74"        "75+"
 
--Update the variable's name 
+--Update the variable's name 
 
 
 Phase 3: Analysis
@@ -60,6 +58,8 @@ Graphics
 -
 
 - 1: Freq. of stops according to race and sex
+
+  
   Secondary graphic: Freq. of stops according to sex and race to check the evolution between years
 
 - 2: Kind of violations according to race
@@ -69,11 +69,13 @@ Graphics
 
 Phase 5: Conclusions
 =
--Stops in Nashville had a positive tendency between years of analysis due to the decrease of 31%, the principal factor was the fall of the rate of moving traffic violations by 33% equivalent to a difference of -49,287 stops. All violations had a positive tendency less registration than had  a light increase of 2.7%
+--Stops in Nashville had a positive tendency between years of analysis due to the decrease of 31%, the principal factor was the fall of the rate of moving traffic violations by 33% equivalent to a difference of -49,287 stops. All violations had a positive tendency less registration than had  a light increase of 2.7%
 
-- The black population has a higher probability of being stopped than other races, followed by the white race, Hispanics, and Asians in this city, it  has been not changed in the years of analysis.
 
--People between 25 and 44 have the highest stop rate.
+--The black population has a higher probability of being stopped than other races, followed by the white race, Hispanics, and Asians in this city, it  has been not changed in the years of analysis.
+
+
+--People between 25 and 44 have the highest stop rate as well as male gender
 
 Sources: 
 -
