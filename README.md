@@ -69,10 +69,11 @@ Graphics
 
 Phase 5: Conclusions
 =
--Stop in Nashville has a positive variation between years of analysis due to the decrease of 31%, the principal factor was the fall of the rate of moving traffic violations by 33% equivalent to a different of 49,287 stops. 
+-Stops in Nashville had a positive tendency between years of analysis due to the decrease of 31%, the principal factor was the fall of the rate of moving traffic violations by 33% equivalent to a difference of -49,287 stops. All violations had a positive tendency less registration than had  a light increase of 2.7%
 
--
+- The black population has a higher probability of being stopped than other races, followed by the white race, Hispanics, and Asians in this city, it  has been not changed in the years of analysis.
 
+-People between 25 and 44 have the highest stop rate.
 
 Sources: 
 -
